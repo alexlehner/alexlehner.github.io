@@ -1,0 +1,10 @@
+# Site settings
+title: "Alex Lehner"
+email: alex@lifelikegeek.com
+description: "Designer of things digital and occasional juggler. Quite often replys in gifs."
+baseurl: ""
+url: "http://alexlehner.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
