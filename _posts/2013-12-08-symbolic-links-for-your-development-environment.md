@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Symbolic Links For Your Development Environment
-description: "Learn how to speed up your development workflow with Symbolic LInks"
+description: "Learn how to speed up your development workflow with Symbolic Links"
 category: articles
 tags: [git, links, mamp, symbolic, symbolic links]
 comments: false
 share: true
-redirect_from: /symbolic-links-for-your-development-environment/
+redirect_from: "/symbolic-links-for-your-development-environment/"
 ---
 
 If you do any local WordPress theme or plugin development, I think I can save you some precious time. When I was developing and testing WordPress themes I found myself having to manage more than 4 separate installations of WordPress per computer *(I regularly switch between 3)*.
