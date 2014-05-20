@@ -1,10 +1,70 @@
-# Site settings
-title: "Alex Lehner"
-email: alex@lifelikegeek.com
-description: "Designer of things digital and occasional juggler. Quite often replys in gifs."
-baseurl: ""
-url: "http://alexlehner.github.io"
+title:            Alex Lehner
+description:      Designer of things digital and occasional juggler. Quite often replys in gifs.
+logo:             site-logo.png
+disqus_shortname:
+search:           true
+# Change url to your domain. Leave localhost server or blank when working locally.
+# You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
+url:              
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Owner/author information
+owner:
+  name:           Alex Lehner
+  avatar:         alex-lehner.jpg
+  email:          alex@lifelikegeek.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        alexjlehner
+  facebook:       alexjlehner
+  github:         alexlehner
+  stackexchange:
+  linkedin:       ajlehner
+  instagram:
+  flickr:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-39319867-2
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Articles
+    url: /articles/
+  - title: Twitter
+    url: http://twitter.com/alexjlehner
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+highlighter: pygments
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "README.md", "LICENSE", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
