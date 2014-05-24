@@ -3,7 +3,7 @@ layout: post
 title: Mobile Nav Patterns
 description: "There are many ways to skin the cat, or display the nav"
 category: articles
-tags: [dropdown, mobile, nav, responsive, off-canvas]
+tags: [mobile, nav, responsive, off-canvas]
 image:
   feature: navPatterns-short.png
 comments: false
