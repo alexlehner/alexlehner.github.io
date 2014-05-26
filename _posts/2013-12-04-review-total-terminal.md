@@ -9,7 +9,7 @@ share: true
 redirect_from: "/totalterminal-review/"
 ---
 
-In this post we will be discussing a really cool application that makes the process of dealing with the Terminal app a breeze. TotalTerminal works by showing and hiding the Terminal window through a keystroke. Anyone who has used the [console in certain games](http://en.wikipedia.org/wiki/Console_(video_game_CLI) "Wikipedia: Console in Video Games") will be familiar with the behavior. This program works great for heavy Git users.
+In this post I will be discussing a really cool application that makes the process of dealing with the Terminal app a breeze. TotalTerminal works by showing and hiding the Terminal window through a keystroke. Anyone who has used the [console in certain games](http://en.wikipedia.org/wiki/Console_(video_game_CLI) "Wikipedia: Console in Video Games") will be familiar with the behavior. This program works great for heavy Git users.
 
 <figure>
 	<a href="{{ site.url }}/images/totalTerminal-desktop.png"><img src="{{ site.url }}/images/totalTerminal-desktop.png"></a>
