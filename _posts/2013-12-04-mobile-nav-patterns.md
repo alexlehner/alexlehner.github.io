@@ -10,7 +10,7 @@ comments: false
 share: true
 redirect_from: "/mobile-nav-patterns/"
 ---
-Us developers and designers are regularly tasked with creating efficient and pretty navigation. This has never been easy and has resulted in many approaches to make the grouping of hyperlinks to be attractive and useful. Mobile devices changed the way users can interact with websites and added complexity to an already convoluted task. The lack of hover behaviors and the small screen sizes make for an interesting challenge to users and developers alike.
+We developers and designers are regularly tasked with creating efficient and pretty navigation. This has never been easy and has resulted in many approaches to make the grouping of hyperlinks to be attractive and useful. Mobile devices changed the way users can interact with websites and added complexity to an already convoluted task. The lack of hover behaviors and the small screen sizes make for an interesting challenge to users and developers alike.
 
 In my quest to make a responsive design, I came across several approaches to mobile navigation. I've discussed 4 approaches below. There are many others out there for designers to consider. The primary thing you should take away from this post is that there is no one-size-fits-all solution. You should decide which solution fits best with your project.
 
@@ -64,7 +64,7 @@ I have lovingly labeled this next one “The Cram N’ Cry.” This is because i
 
 ## The Toggle
 
-This is one of the most often seen mobile navigation pattern. It is a very flexible way to display the navigation in a pseudo-visor method. This allows the mobile navigation to operate independently of the desktop navigation and can be customized to suit the sites needs.
+This is one of the most often seen mobile navigation patterns. It is a very flexible way to display the navigation in a pseudo-visor method. This allows the mobile navigation to operate independently of the desktop navigation and can be customized to suit the site's needs.
 
 <figure>
 	<a href="{{ site.url }}/images/navPatterns-toggle-big.png"><img src="{{ site.url }}/images/navPatterns-toggle-small.png"></a>
