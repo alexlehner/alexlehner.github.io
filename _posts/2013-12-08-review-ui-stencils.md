@@ -11,14 +11,14 @@ share: true
 redirect_from: "/ui-stencils-review/"
 ---
 
-One of the coolest trends that I am happy to see returning to the area of web design is the sketching of simple mock ups as part of the design process. I, like many of you, have jumped straight into code or Photoshop and ended up waisting time attempting to achieve pixel perfection.  
+One of the coolest trends that I am happy to see returning to the area of web design is the sketching of simple mock ups as part of the design process. I, like many of you, have jumped straight into code or Photoshop and ended up wasting time attempting to achieve pixel perfection.  
 
 <figure>
 	<a href="{{ site.url }}/images/uiStencils-myDesk.jpg"><img src="{{ site.url }}/images/uiStencils-myDesk.jpg"></a>
 	<figcaption>My desk during a sketching brainstorming session</figcaption>
 </figure>
 
-In reality, much of this first iteration should be approached as a planning process. I can’t think of any site designs I did perfect the first time. By spending excessive amounts of time building mock ups in Photoshop or within the browser, you are less likely to scrap your first design choices. If you simply jumped in and built the site with the latest framework, are you sure that design is what your users really need?  
+In reality, much of this first iteration should be approached as a planning process. I can’t think of any site designs I did perfectly the first time. By spending excessive amounts of time building mock ups in Photoshop or within the browser, you are less likely to scrap your first design choices. If you simply jumped in and built the site with the latest framework, are you sure that design is what your users really need?  
 
 ### A Case for sketching
 
@@ -32,7 +32,7 @@ One of my favorite new tools comes from the fine folks over at [uistencils.com](
 
 ### Review of UI Stencils
 
-Neat huh? I have had my stencils for several months now and really enjoy them. They have helped me think abstractly, focus on the user experience, and allowed me to quickly portray my thoughts to others. Here’s what I bought*:
+Neat huh? I have had my stencils for several months now and really enjoy them. They have helped me think abstractly, focus on the user experience, and allowed me to quickly demonstrate my thoughts to others. Here’s what I bought*:
 
 * iPhone Stencil Kit ($29.00). - [http://www.uistencils.com/products/iphone-stencil-kit](http://www.uistencils.com/products/iphone-stencil-kit)
 * Website Stencil Kit ($29.00) - [http://www.uistencils.com/products/website-stencil-kit](http://www.uistencils.com/products/website-stencil-kit)
@@ -40,13 +40,13 @@ Neat huh? I have had my stencils for several months now and really enjoy them. T
 * iPhone Sketch Pad ($14.00) - [http://www.uistencils.com/products/iphone-sketch-pad](http://www.uistencils.com/products/iphone-sketch-pad)
 * UI Stencils Case ($32.00) - [http://www.uistencils.com/products/ui-stencils-case](http://www.uistencils.com/products/ui-stencils-case)
 
-*Some of these were bought as a package to save &&&*
+*Some of these were bought as a package to save $$$*
 
-### Desing and durability
+### Design and durability
 
-I was pleasantly surprised by the durability of the stencils. They are made of metal and are sturdy enough to handle what you need. Interestingly, I was expecting the stencils to be a realistic size of an iPhone. After using them for a few minutes, I completely understand why they made them slightly larger. The extra room is vital to adequately portraying your ideas.
+I was pleasantly surprised by the durability of the stencils. They are made of metal and are sturdy enough to handle what you need. Interestingly, I was expecting the stencils to be a realistic size of an iPhone. After using them for a few minutes, I completely understand why they made them larger. The extra room is vital to adequately demonstrating your ideas.
 
-The sketchbooks are like any paper notebook but include a layout and dot-grid printed already. When I have needed to tear off sheets, the clean removal is phenomenal. The notes, dates, and project fields are a welcomed feature. In the future I hope they release a version that functions more like a Moleskin notebook. Vary rarely do I want to take the designs off of the sketchpad and the current configuration is not conducive to keeping sketches attached to each other.
+The sketchbooks are like any paper notebook but include a layout and dot-grid already printed. When I have needed to tear off sheets, the clean removal is phenomenal. The notes, dates, and project fields are a welcomed features. In the future I hope they release a version that functions more like a Moleskin notebook. Very rarely do I want to take the designs off of the sketchpad and the current configuration is not conducive to keeping sketches attached to each other.
 
 <figure>
 	<a href="{{ site.url }}/images/uiStencils-inUse.jpg"><img src="{{ site.url }}/images/uiStencils-inUse.jpg"></a>
@@ -63,7 +63,7 @@ At the time of writing, I couldn’t recommend UI Stencils more. If you are just
 
 I thought I would include some extra sketching and wire framing resources for your reading pleasure:
 
-* iPhone Template: [http://cdn.shopify.com/s/files/1/0042/9602/files/iphoneSketchpad_letter_v9-BW.pdf?338](http://cdn.shopify.com/s/files/1/0042/9602/files/iphoneSketchpad_letter_v9-BW.pdf?338)
-* [http://uxdesign.smashingmagazine.com/2013/06/24/sketching-for-better-mobile-experiences/](http://uxdesign.smashingmagazine.com/2013/06/24/sketching-for-better-mobile-experiences/)
-* [http://www.smashingmagazine.com/2010/03/29/free-printable-sketching-wireframing-and-note-taking-pdf-templates/](http://www.smashingmagazine.com/2010/03/29/free-printable-sketching-wireframing-and-note-taking-pdf-templates/)
-* [http://www.smashingmagazine.com/2009/09/01/35-excellent-wireframing-resources/](http://www.smashingmagazine.com/2009/09/01/35-excellent-wireframing-resources/)
+* [iPhone Template](http://cdn.shopify.com/s/files/1/0042/9602/files/iphoneSketchpad_letter_v9-BW.pdf?338)
+* [Smashing Mag: Sketching for Better Mobile Experiences](http://uxdesign.smashingmagazine.com/2013/06/24/sketching-for-better-mobile-experiences/)
+* [Smashing Mag: Free wireframing PDF Templates](http://www.smashingmagazine.com/2010/03/29/free-printable-sketching-wireframing-and-note-taking-pdf-templates/)
+* [Smashing Mag: Excellent Wireframing Resources](http://www.smashingmagazine.com/2009/09/01/35-excellent-wireframing-resources/)
