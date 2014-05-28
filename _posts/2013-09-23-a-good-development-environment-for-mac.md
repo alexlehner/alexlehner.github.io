@@ -14,7 +14,7 @@ There are no shortage of applications available to support the needs of web deve
 
 ## Text Editors
 
-Text Editors are at the core of any developers environment. They make it easier (or more difficult) to do the management of files. There are hundreds of different text editors out there. If you are just getting started there are tons of free solutions such as: Text Wrangler, Kod, Smultron, Emacs, Komodo Edit, and more. Check out a few awesome ones below:
+Text Editors are at the core of any developer's environment. They make it easier (or more difficult) to do the management of files. There are hundreds of different text editors out there. If you are just getting started there are tons of free solutions such as: Text Wrangler, Kod, Smultron, Emacs, Komodo Edit, and more. Check out a few awesome ones below:
 
 ### [Sublime Text](http://www.sublimetext.com/)
 
@@ -38,7 +38,7 @@ There are hundreds of photo editing tools out there. Here are two that I have in
 
 ### [Pixelmator](http://www.pixelmator.com/)
 
-A new contender in the image manipulation market, [Pixelmator](http://www.pixelmator.com/) came in with a fresh approach for image manipulation at a reasonable cost. The program possesses many of the features of its more expensive cousin at only $29 via the Mac App store. The program is only available on Macs and has won several design award. Pixelmator is definitely a good solution for those hesitant to pay up for Photoshop. Those familiar with other image editing programs will be right at home in Pixelmator’s interface.
+A new contender in the image manipulation market, [Pixelmator](http://www.pixelmator.com/) came in with a fresh approach for image manipulation at a reasonable cost. The program possesses many of the features of its more expensive cousin at only $29 via the Mac App store. The program is only available on Macs and has won several design awards. Pixelmator is definitely a good solution for those hesitant to pay up for Photoshop. Those familiar with other image editing programs will be right at home in Pixelmator’s interface.
 
 ## SFTP & Database
 
@@ -50,7 +50,7 @@ Where would the web be if it wasn’t for web servers? The following programs ta
 
 ### [Cyberduck](http://cyberduck.ch/)
 
-For those casual web designers who need a quick and easy solution (see: free) to manage files between a local computer and a server, [Cyberduck](http://cyberduck.ch/) is a great solution. It is a free file transfer client that has an extremely simple interface. Though it doesn’t have the syncing or remote disk features of Transmit, it is still an excellent program. There is even a Windows version. Gasp! Mac users can get it from the Cyberduck [website](http://cyberduck.ch/) or the [Mac App store](http://cyberduck.ch/appstore).
+For those casual web designers who need a quick and easy solution (see: free) to manage files between a local computer and a server, [Cyberduck](http://cyberduck.ch/) is a great option. It is a free file transfer client that has an extremely simple interface. Though it doesn’t have the syncing or remote disk features of Transmit, it is still an excellent program. There is even a Windows version. Gasp! Mac users can get it from the Cyberduck [website](http://cyberduck.ch/) or the [Mac App store](http://cyberduck.ch/appstore).
 
 ### [Sequel Pro](http://www.sequelpro.com/)
 
@@ -71,7 +71,7 @@ So you have a great idea for a site? That’s awesome! Now let’s build and tes
 
 ### Parallels / VMWare / VirtualBox
 
-Your mac is great at running Mac applications. You can reasonably test your design on all current versions of Firefox, Chrome, Safari, and Opera. That’s awesome, except there isn’t an IE for mac ([anymore](http://en.wikipedia.org/wiki/Internet_Explorer_for_Mac)). To test your site in various version of Internet Explorer, you are going to need various versions of Microsoft Windows. To do that you can keep a few Windows boxes lying around, or virtualize it. The big names in Mac Virtualization are [Parallels](http://www.parallels.com/), [VMWare](http://www.vmware.com/products/fusion/), and [VirtualBox](https://www.virtualbox.org/wiki/Downloads). All three aim to let you run different operating systems within Mac OS X. Of the three, I have found that VMWare Fusion is the most reliable and featured. The program will cost you a [pretty penny](http://store.vmware.com/DRHM/store?Action=DisplayProductDetailsPage&SiteID=vmware&Locale=en_US&ThemeID=2485600&productID=285051300&src=WWW_eBIZ_productpage_Fusion_Buy_US) but makes up for it with its ease of use and functionality. But if you are interested in keeping costs down. [VirtualBox](https://www.virtualbox.org/wiki/Downloads) is free and has the core features you need.
+Your mac is great at running Mac applications. You can reasonably test your design on all current versions of Firefox, Chrome, Safari, and Opera. That’s awesome, except there isn’t an IE for mac ([anymore](http://en.wikipedia.org/wiki/Internet_Explorer_for_Mac)). To test your site in various version of Internet Explorer, you are going to need various versions of Microsoft Windows. To do that you can keep a few Windows boxes lying around, or virtualize it. The big names in Mac Virtualization are [Parallels](http://www.parallels.com/), [VMWare](http://www.vmware.com/products/fusion/), and [VirtualBox](https://www.virtualbox.org/wiki/Downloads). All three aim to let you run different operating systems within Mac OS X. Of the three, I have found that VMWare Fusion is the most reliable and featured. The program will cost you a [pretty penny](http://store.vmware.com/DRHM/store?Action=DisplayProductDetailsPage&SiteID=vmware&Locale=en_US&ThemeID=2485600&productID=285051300&src=WWW_eBIZ_productpage_Fusion_Buy_US) but makes up for it with its ease of use and functionality. If, however, you are interested in keeping costs down, [VirtualBox](https://www.virtualbox.org/wiki/Downloads) is free and has the core features you need.
 
 ### [iOS Simulator](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/iOS_Simulator_Guide/Introduction/Introduction.html)
 

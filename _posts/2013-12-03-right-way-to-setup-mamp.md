@@ -8,7 +8,7 @@ share: true
 redirect_from: "/a-good-development-environment-part-2-the-right-way-to-setup-mamp/"
 ---
 
-One of the core apps that bring my development environment together is MAMP. Below I will discuss the best way I have found to configure MAMP.
+One of the core apps that brings my development environment together is MAMP. Below I will discuss the best way I have found to configure MAMP.
 
 <figure>
 	<a href="{{ site.url }}/images/mamp-front.png"><img src="{{ site.url }}/images/mamp-front.png"></a>
@@ -66,7 +66,7 @@ Under “PHP”, the defaults are usually fine. They are as follows:
 
 ## Start Playing
 
-Now that you have MAMP setup, it is time to test it. Now all you have to do is bring the various web files you have created and drop them in the git folder. Then you should be able to point your browser to: http://localhost/ and see files within the git directory.
+Now that you have MAMP setup, it is time to test it. All you have to do is bring the various web files you have created and drop them in the git folder. Then you should be able to point your browser to: http://localhost/ and see files within the git directory.
 
 To keep things organized, I recommend you separate your projects via folders. For example I am working on a project for a company called One George. By putting all of the work in a folder called “ onegeorge”, I am easily able to keep my projects organized and have simple URLs. To access that project from a web browser, all I have to do is append the folder name to localhost. For example: http://localhost/onegeorge/
 
