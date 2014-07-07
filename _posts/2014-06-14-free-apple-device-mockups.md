@@ -5,6 +5,7 @@ category: articles
 tags: [apple, mockups, design]
 comments: false
 share: true
+modified: 2014-07-07
 ---
 
 As a designer, one of the best ways I have found to improve the professionalism of my design projects has been to present mockups of how the product will look on a real device. As the designers of Facebook Home said, [leave nothing to intepretation](http://vimeo.com/68749840 "Designing Facebook Home").
