@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 title: About Alex
-tags: [Alex Lehner, minimalist, front end, designer]
+tags: [alex lehner, alex, lehner, font-end, design, web design, responsive, blog, minimalism, usability, ui, ux]
 modified: 2014-05-24
 image:
   feature: about-climbing-short.jpg
