@@ -10,7 +10,7 @@ image:
 
 ![Alex Lehner]({{site-url}}/images/alex-lehner-about.jpg)
 
-Hi! I'm Alex. I use a mechanical keyboard and dream in hex codes. I believe everyone should work in a restaurant once and they should continuously challenge status quo. If given the opportunity and resources, I would find a way to make a sport out of rollerblading and weather balloons.
+Hi! I'm Alex. I use a mechanical keyboard and live in hex codes. If given the opportunity and resources, I would find a way to make a sport out of rollerblading and weather balloons.
 
 In reality, I am a designer currently living in Tallahassee, FL. I have a passion for good design and development across all platforms. I love anything to do with mobile, UX, UI, gadgets, and IT. I also just finished my Master’s Degree at [Florida State University](http://fsu.edu/ "FSU Website...I didn't design it").
 
