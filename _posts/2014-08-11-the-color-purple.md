@@ -2,7 +2,7 @@
 layout: post
 title: "The Wonderful Web: The Color Purple"
 category: articles
-tags: [web, community, rebeccapurple, purple]
+tags: [web, community, rebeccapurple]
 comments: false
 share: true
 ---
