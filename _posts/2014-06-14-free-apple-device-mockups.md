@@ -5,7 +5,7 @@ category: articles
 tags: [apple, mockups, design]
 comments: false
 share: true
-modified: 2014-07-07
+modified: 2014-09-28
 ---
 
 As a designer, one of the best ways I have found to improve the professionalism of my design projects has been to present mockups of how the product will look on a real device. As the designers of Facebook Home said, [leave nothing to intepretation](http://vimeo.com/68749840 "Designing Facebook Home").
@@ -15,6 +15,17 @@ Fortunately there are no shortage of free device mock ups around the Internet. B
 These are just at taste of all of the PSDs out there. Checkout [PremiumPixels.com](http://www.premiumpixels.com/), [Pixeden.com](http://www.pixeden.com/), and [GraphicBurger.com](http://graphicburger.com/) for many more.
 
 *Note: Most of the PSDs below require Photoshop CS3 or higher and are able to be used for at least private use.*
+
+## [iPhone 6](http://pixelbuddha.net/freebie/iphone-6-mockups)
+
+<figure>
+	<a href="http://pixelbuddha.net/freebie/iphone-6-mockups" target="_blank"><img src="{{ site.url }}/images/appleMockups-iphone6.jpg"></a>
+	<figcaption>iPhone 6 Mockup from Pixel Buddha</figcaption>
+</figure>
+
+This iPhone 6 PSD vector is an awesome start to any project you may have. This PSD comes with all three iPhone 6 colors and is entirely FREE.
+
+[Download iPhone 6 Mockup from Pixel Buddha](http://pixelbuddha.net/freebie/iphone-6-mockups)
 
 ## [iPhone 5s](http://www.pixeden.com/psd-mock-up-templates/3d-view-iphone-5s-psd-vector-mockup)
 
