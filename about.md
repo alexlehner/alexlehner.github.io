@@ -14,7 +14,7 @@ I just finished my Master’s Degree at [Florida State University](http://fsu.ed
 
 I like to spend my free time rock climbing and doing circus activities. I was a performer in the [FSU Flying High Circus](http://circus.fsu.edu/ "FSU Flying High Circus Website") for 4 years and did a mix of wire-walking, juggling, and trapeze.
 
-Please find me on [twitter](https://twitter.com/AlexJLehner "Alex on Twitter") and [linkedin](http://linkedin.com/in/ajlehner "Alex on LinkedIn") or at [alex@lifelikegeek.com](mailto:alex@lifelikegeek.com).
+For more info, find me on [twitter](https://twitter.com/AlexJLehner "Alex on Twitter"), [linkedin](http://linkedin.com/in/ajlehner "Alex on LinkedIn"), at [alex@lifelikegeek.com](mailto:alex@lifelikegeek.com), or [download my resume]({{ site.url }}/assets/AlexLehner-Resume2014.pdf) *(PDF 2.1MB)*. 
 
 Cheers,
 
