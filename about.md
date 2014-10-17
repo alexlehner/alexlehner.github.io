@@ -24,4 +24,4 @@ Alex Lehner
 
 ###Colophon
 
-This site is built with [Jekyll](https://github.com/mojombo/jekyll), a ‘blog aware, static site generator’, and hosted on [GitHub Pages](http://pages.github.com/). The source code is version controlled with [Git](http://git-scm.com/) and stored on [GitHub](https://github.com/andytlr/).
+This site is built with [Jekyll](https://github.com/mojombo/jekyll), a ‘blog aware, static site generator’, and hosted on [GitHub Pages](http://pages.github.com/). The source code is version controlled with [Git](http://git-scm.com/) and stored on [GitHub](https://github.com/alexlehner/).
