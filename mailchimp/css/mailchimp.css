@@ -12,6 +12,12 @@ body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
 }
 
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'old-standard', 'Helvetica Neue', "Times New Roman", serif !important;
+  font-style: italic;
+  letter-spacing: -0.045em;
+}
+
 /* ==========================================================================
    Layout styles
    ========================================================================== */
@@ -24,6 +30,24 @@ body {
 .welcome-video {
 	background: #8C79D9 url(../images/banner-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
 	padding-top: 50px;
-	/*This is used to achive the full vertical height for the background image */
-	height: 100vh;
+	height: 100vh; /*This is used to achive the full vertical height for the background image */
+	color: #FFF;
+}
+
+.welcome-video h1 {
+	font-size: 700%;
+	padding-top: 30%;
+}
+
+.welcome-video p {
+	font-size: 200%;
+	font-weight: 300;
+}
+
+.welcome-video a, .welcome-video a:visited, .welcome-video a:active{
+	color: #FFF;
+}
+
+.welcome-video a:hover {
+	color: #D8D6D6;
 }
