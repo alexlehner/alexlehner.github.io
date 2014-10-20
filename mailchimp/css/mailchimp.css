@@ -30,7 +30,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .welcome-video {
 	background: #8C79D9 url(../images/banner-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
 	padding: 10% 0;
-	height: 100%; /*This is used to achive the full vertical height for the background image */
 	color: #FFF;
 }
 
@@ -55,8 +54,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px)
 {
+	.welcome-video {
+		padding:35% 0;
+	}
 	.welcome-video h1 {
-		font-size: 36px
+		font-size: 45px
 	}
 
 	.welcome-video p {
