@@ -29,18 +29,17 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .welcome-video {
 	background: #8C79D9 url(../images/banner-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
-	padding-top: 50px;
-	height: 100vh; /*This is used to achive the full vertical height for the background image */
+	padding: 10% 0;
+	height: 100%; /*This is used to achive the full vertical height for the background image */
 	color: #FFF;
 }
 
 .welcome-video h1 {
-	font-size: 700%;
-	padding-top: 30%;
+	font-size: 90px;
 }
 
 .welcome-video p {
-	font-size: 200%;
+	font-size: 25px;
 	font-weight: 300;
 }
 
@@ -50,4 +49,23 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .welcome-video a:hover {
 	color: #D8D6D6;
+}
+
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px)
+{
+	.welcome-video h1 {
+		font-size: 36px
+	}
+
+	.welcome-video p {
+		font-size: 16px;
+	}
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px)
+{
+	
 }
