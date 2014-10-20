@@ -4,13 +4,26 @@
 
 */
 
+/* ==========================================================================
+   Master override styles
+   ========================================================================== */
+
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+}
+
+/* ==========================================================================
+   Layout styles
+   ========================================================================== */
 
 .navbar {
-	background: rgba(255, 255, 255, 0.8);
-	border-bottom: 3px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 0;
 }
+
 .welcome-video {
 	background: #8C79D9 url(../images/banner-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
 	padding-top: 50px;
+	/*This is used to achive the full vertical height for the background image */
 	height: 100vh;
 }
