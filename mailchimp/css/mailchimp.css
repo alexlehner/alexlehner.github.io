@@ -9,11 +9,13 @@
    ========================================================================== */
 
 body {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+	font-size: 15px;
+	color: #595959;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: 'old-standard', 'Helvetica Neue', "Times New Roman", serif !important;
+  font-family: 'old-standard', "Times New Roman", serif !important;
   font-style: italic;
   letter-spacing: -0.045em;
 }
@@ -43,7 +45,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-weight: 300;
 }
 
-.welcome-video a, .welcome-video a:visited, .welcome-video a:active{
+.welcome-video a, .welcome-video a:visited, .welcome-video a:active {
 	color: #FFF;
 }
 
@@ -51,6 +53,45 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	color: #D8D6D6;
 }
 
+.cover-letter {
+	padding: 10% 0;
+	border-bottom: 1px solid #ccc;
+}
+
+.cover-letter-body {
+	padding: 5% 0;
+}
+
+.quote {
+	background: #8C79D9; -o-background-size: cover; background-size: cover;
+	padding: 10% 0;
+	color: #FFF;
+}
+
+.quote a, .quote a:visited, .quote a:active, .quote blockquote footer {
+	color:#E2E2E2;
+}
+
+.quote a:hover {
+	color: #FFF;
+}
+
+.quote blockquote {
+	border-left: 0;
+}
+
+.quote blockquote p {
+  	font-size: 25px;
+}
+
+
+.quote1 {
+	background: url(../images/quote1-bg.jpg) no-repeat center center;
+}
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
 
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px)
