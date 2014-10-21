@@ -93,6 +93,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
    Media Queries
    ========================================================================== */
 
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px)
+{
+	.welcome-video h1 {
+		font-size: 70px
+	}
+}
+
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px)
 {
@@ -106,10 +114,4 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	.welcome-video p {
 		font-size: 16px;
 	}
-}
-
-/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-@media only screen and (min-width: 480px) and (max-width: 767px)
-{
-	
 }
