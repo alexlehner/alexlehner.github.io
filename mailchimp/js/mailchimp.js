@@ -6,27 +6,8 @@ $(document).ready(function() {
 	$(".fancybox").fancybox();
 
 	/*
-	 *  Different effects
+	 *  FancyBox Customizations
 	 */
-
-	// Set custom style, close if clicked, change title type and overlay color
-	$(".fancybox-effects-c").fancybox({
-		wrapCSS    : 'fancybox-custom',
-		closeClick : true,
-
-		openEffect : 'none',
-
-		helpers : {
-			title : {
-				type : 'inside'
-			},
-			overlay : {
-				css : {
-					'background' : 'rgba(255,255,255,0.80)'
-				}
-			}
-		}
-	});
 
 	/*
 	 *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
@@ -42,7 +23,12 @@ $(document).ready(function() {
 			arrows : false,
 			helpers : {
 				media : {},
-				buttons : {}
+				buttons : {},
+				overlay : {
+					css : {
+						'background' : 'rgba(255,255,255,0.80)'
+					}
+				}
 			}
 		});
 });
