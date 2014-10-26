@@ -32,10 +32,26 @@ section {
 	border-bottom: 1px solid #ccc;
 	margin-bottom: 0;
 }
-.welcome-video {
-	background: #8C79D9 url(../images/banner-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
+
+.banner {
 	color: #FFF;
 	height: 100%;
+}
+
+.banner p {
+	font-weight: 300;
+}
+
+.banner a, .banner a:visited, .banner a:active {
+	color: #FFF;
+}
+
+.banner a:hover {
+	color: #D8D6D6;
+}
+
+.welcome-video {
+	background: #8C79D9 url(../images/banner-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
 }
 
 .welcome-video h1 {
@@ -44,15 +60,6 @@ section {
 
 .welcome-video p {
 	font-size: 25px;
-	font-weight: 300;
-}
-
-.welcome-video a, .welcome-video a:visited, .welcome-video a:active {
-	color: #FFF;
-}
-
-.welcome-video a:hover {
-	color: #D8D6D6;
 }
 
 .cover-letter {
@@ -65,15 +72,6 @@ section {
 
 .quote {
 	background: #228988 url(../images/quote1-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
-	color: #FFF;
-}
-
-.quote a, .quote a:visited, .quote a:active, .quote blockquote footer {
-	color:#E2E2E2;
-}
-
-.quote a:hover {
-	color: #FFF;
 }
 
 .quote blockquote {
@@ -86,7 +84,6 @@ section {
 
 .amber {
 	background: #8C79D9 url(../images/amber.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
-	color: #FFF;
 }
 
 .amber h2 {
@@ -95,15 +92,7 @@ section {
 
 .amber p {
 	font-size: 25px;
-	font-weight: 300;
-}
-
-.amber a, .amber a:visited, .amber a:active {
-	color: #FFF;
-}
-
-.amber a:hover {
-	color: #D8D6D6;
+	
 }
 
 /* ==========================================================================
