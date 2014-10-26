@@ -20,6 +20,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   letter-spacing: -0.045em;
 }
 
+section {
+	padding: 10% 0;
+}
+
 /* ==========================================================================
    Layout styles
    ========================================================================== */
@@ -28,10 +32,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	border-bottom: 1px solid #ccc;
 	margin-bottom: 0;
 }
-
 .welcome-video {
 	background: #8C79D9 url(../images/banner-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
-	padding: 10% 0;
 	color: #FFF;
 	height: 100%;
 }
@@ -54,7 +56,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .cover-letter {
-	padding: 10% 0;
 	border-bottom: 1px solid #ccc;
 }
 
@@ -64,7 +65,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .quote {
 	background: #228988 url(../images/quote1-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
-	padding: 10% 0;
 	color: #FFF;
 }
 
@@ -84,6 +84,28 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   	font-size: 25px;
 }
 
+.amber {
+	background: #8C79D9 url(../images/amber.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
+	color: #FFF;
+}
+
+.amber h2 {
+	font-size: 165px;
+}
+
+.amber p {
+	font-size: 25px;
+	font-weight: 300;
+}
+
+.amber a, .amber a:visited, .amber a:active {
+	color: #FFF;
+}
+
+.amber a:hover {
+	color: #D8D6D6;
+}
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */
@@ -101,4 +123,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	.welcome-video p {
 		font-size: 16px;
 	}
+	.amber h2 {
+	font-size: 100px;
+}
 }
