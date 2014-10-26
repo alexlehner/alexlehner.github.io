@@ -15,9 +15,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: 'old-standard', "Times New Roman", serif !important;
-  font-style: italic;
-  letter-spacing: -0.045em;
+	font-family: 'old-standard', "Times New Roman", serif !important;
+	font-style: italic;
+	letter-spacing: -0.045em;
 }
 
 section {
@@ -28,60 +28,31 @@ section {
    Layout styles
    ========================================================================== */
 
-.navbar {
-	margin-bottom: 0;
-	border-bottom: 1px solid #ccc;
-}
+.navbar { margin-bottom: 0; border-bottom: 1px solid #ccc;}
 
-.banner {
-	height: 100%;
-}
+.banner {height: 100%;}
 
-.banner, .banner footer, .banner a, .banner a:visited, .banner a:active {
-	color: #FFF;
-}
+	.banner, .banner footer, .banner a, .banner a:visited, .banner a:active {color: #FFF;}
 
-.banner a:hover {
-	color: #D8D6D6;
-}
+	.banner a:hover {color: #D8D6D6;}
 
-.banner p {
-	font-size: 25px;
-	font-weight: 300;
-}
+	.banner p {font-size: 25px;	font-weight: 300;}
 
-.welcome-video {
-	background: #8C79D9 url(../images/banner-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
-}
+.welcome-video {background: #8C79D9 url(../images/banner-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;}
 
-.welcome-video h1 {
-	font-size: 90px;
-}
+	.welcome-video h1 {font-size: 90px;}
 
-.cover-letter {
-	border-bottom: 1px solid #ccc;
-}
+.cover-letter {border-bottom: 1px solid #ccc;}
 
-.cover-letter-body {
-	padding: 5% 0;
-}
+	.cover-letter-body {padding: 5% 0;}
 
-.quote {
-	background: #228988 url(../images/quote1-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
-}
+.quote {background: #228988 url(../images/quote1-bg.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;}
 
-.quote blockquote {
-	border-left: 0;
-}
+	.quote blockquote {border-left: 0;}
 
+.amber {background: #8C79D9 url(../images/amber.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;}
 
-.amber {
-	background: #8C79D9 url(../images/amber.jpg) no-repeat center center; -o-background-size: cover; background-size: cover;
-}
-
-.amber h2 {
-	font-size: 165px;
-}
+	.amber h2 {font-size: 165px;}
 
 /* ==========================================================================
    Media Queries
