@@ -10,7 +10,7 @@ modified: 2014-07-07
 
 I like designing things. I've made websites, mobile apps, user experiences, brands, ads, databases, and probably more. 
 
-I just finished my Master’s Degree at [Florida State University](http://fsu.edu/ "FSU Website") and I'm currently looking for my next career adventure. 
+I recently finished my Master’s Degree at [Florida State University](http://fsu.edu/ "FSU Website") in Information Technology and just moved to Atlanta for my next career adventure. More details on that later ;)
 
 I like to spend my free time rock climbing and doing circus activities. I was a performer in the [FSU Flying High Circus](http://circus.fsu.edu/ "FSU Flying High Circus Website") for 4 years and did a mix of wire-walking, juggling, and trapeze.
 
