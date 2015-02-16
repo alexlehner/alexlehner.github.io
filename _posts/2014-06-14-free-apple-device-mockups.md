@@ -5,7 +5,7 @@ category: articles
 tags: [apple, mockups, design]
 comments: false
 share: true
-modified: 2014-09-28
+modified: 2015-02-15
 ---
 
 As a designer, one of the best ways I have found to improve the professionalism of my design projects has been to present mockups of how the product will look on a real device. As the designers of Facebook Home said, [leave nothing to intepretation](http://vimeo.com/68749840 "Designing Facebook Home").
@@ -15,6 +15,17 @@ Fortunately there are no shortage of free device mock ups around the Internet. B
 These are just at taste of all of the PSDs out there. Checkout [PremiumPixels.com](http://www.premiumpixels.com/), [Pixeden.com](http://www.pixeden.com/), and [GraphicBurger.com](http://graphicburger.com/) for many more.
 
 *Note: Most of the PSDs below require Photoshop CS3 or higher and are able to be used for at least private use.*
+
+## [Apple Watch](https://dribbble.com/shots/1719044-Apple-Watch-Free-Template-PSD)
+
+<figure>
+	<a href="https://dribbble.com/shots/1719044-Apple-Watch-Free-Template-PSD" target="_blank"><img src="{{ site.url }}/images/appleMockups-watch.jpg"></a>
+	<figcaption>Apple Watch Mockup by Francesco Scalambrino</figcaption>
+</figure>
+
+Even though the Apple Watch has not been released to the public, many awesome mockups have already been released. I found my favorite on [Dribble](https://dribbble.com/shots/1719044-Apple-Watch-Free-Template-PSD) not too long ago. I've already started to put it to good use. I hope you'll do the same. 
+
+[Download Apple Watch Mockup by Francesco Scalambrino](https://dribbble.com/shots/1719044-Apple-Watch-Free-Template-PSD)
 
 ## [iPhone 6](http://pixelbuddha.net/freebie/iphone-6-mockups)
 
