@@ -38,6 +38,8 @@ To do this we are are going to be using the following strategies:
 
 ![Cop-Mobile]({{ site.url }}/images/dmm/CoP-Mobile-overlay.jpg)
 
+![DMM]({{ site.url }}/images/dmm/DMM-home.jpg)
+
 
 ---
 
