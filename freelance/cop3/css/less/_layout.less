@@ -1,0 +1,130 @@
+/* --------------------------------------
+
+layout.less
+
+-------------------------------------- */
+
+// Global Declarations
+// -----------------------------------
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: @base-font-family;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: @header-font-family;
+	font-weight: 400;
+	text-rendering: optimizeLegibility
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: 300;
+	color: @midnight;
+}
+
+h2 {
+	font-size: 21px;
+	color: @slate;
+}
+
+h3 {
+	font-size: 18px;
+	color: @gold;
+}
+
+h4 {
+	font-size: 16px;
+	color: @graphite;
+}
+
+a {
+	color: @blue;
+
+	&:hover {
+
+		color: @slate;
+		transition: all 0.5s ease; 
+		-moz-transition: all 0.5s ease; 
+		-o-transition: all 0.5s ease; 
+		-webkit-transition: all 0.5s ease;
+	}
+}
+
+p {
+	max-width: 600px; // For readability purposes
+}
+
+// Header Classes
+// -----------------------------------
+
+.top-bar {
+	height: 60px;
+	color: @white;
+	text-decoration: none;
+	font-weight: 300;
+	font-size: 13px;
+
+	a {
+		color: @white;
+		text-decoration: none;
+
+		&:active,
+		&:visited {
+		color: @white;
+		}
+
+		&:hover {
+			color: @gold;
+		}
+	}
+}
+
+.logo {
+	z-index: 50;
+	margin: -40px auto 0;
+}
+
+.page-header {
+	font-family: @header-font-family;
+	color: @slate;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 1;
+	text-shadow: 1px 1px 2px rgba(33, 32, 32, 0);
+}
+
+.parent-org {
+	font-family: @header-font-family;
+	color: @slate;
+
+	a {
+		color: @slate;
+		text-decoration: none;
+
+		&:hover {
+			color: @gold;
+		}
+
+		&:active,
+		&:visited {
+			color: @slate;
+		}
+	}
+}
+
+// footer Classes
+// -----------------------------------
+
+footer {
+
+}
