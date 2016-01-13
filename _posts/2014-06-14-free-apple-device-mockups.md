@@ -8,9 +8,9 @@ share: true
 modified: 2015-02-15
 ---
 
-As a designer, one of the best ways I have found to improve the professionalism of my design projects has been to present mockups of how the product will look on a real device. As the designers of Facebook Home said, [leave nothing to intepretation](http://vimeo.com/68749840 "Designing Facebook Home").
+As a designer, one of the best ways I have found to improve the professionalism of my design projects has been to present mockups of how the product will look on a real device. As the designers of Facebook Home said, [leave nothing to interpretation](http://vimeo.com/68749840 "Designing Facebook Home").
 
-Fortunately there are no shortage of free device mock ups around the Internet. Below are some of my favorites. 
+Fortunately there are no shortage of free device mock ups around the Internet. Below are some of my favorites.
 
 These are just at taste of all of the PSDs out there. Checkout [PremiumPixels.com](http://www.premiumpixels.com/), [Pixeden.com](http://www.pixeden.com/), and [GraphicBurger.com](http://graphicburger.com/) for many more.
 
@@ -23,7 +23,7 @@ These are just at taste of all of the PSDs out there. Checkout [PremiumPixels.co
 	<figcaption>Apple Watch Mockup by Francesco Scalambrino</figcaption>
 </figure>
 
-Even though the Apple Watch has not been released to the public, many awesome mockups have already been released. I found my favorite on [Dribble](https://dribbble.com/shots/1719044-Apple-Watch-Free-Template-PSD) not too long ago. I've already started to put it to good use. I hope you'll do the same. 
+Even though the Apple Watch has not been released to the public, many awesome mockups have already been released. I found my favorite on [Dribble](https://dribbble.com/shots/1719044-Apple-Watch-Free-Template-PSD) not too long ago. I've already started to put it to good use. I hope you'll do the same.
 
 [Download Apple Watch Mockup by Francesco Scalambrino](https://dribbble.com/shots/1719044-Apple-Watch-Free-Template-PSD)
 
@@ -78,7 +78,7 @@ This freebie is an Apple 27in LED Cinema Display. It is a brilliant contribution
 	<figcaption>13in Retina MacBook Pro PSD MockUp from Graphic Burger</figcaption>
 </figure>
 
-[Picjumbo.com](http://picjumbo.com/) released this awesome 13in Retina Macbook Pro shot for Graphic Burger. I've already used it in a couple of small projects. Check it out. 
+[Picjumbo.com](http://picjumbo.com/) released this awesome 13in Retina Macbook Pro shot for Graphic Burger. I've already used it in a couple of small projects. Check it out.
 
 [Download 13in MacBook Pro PSD Mockup from Graphic Burger](http://graphicburger.com/macbook-pro-psd-mockup/)
 
@@ -100,7 +100,7 @@ This MacBook Pro Retina PSD Template is a perfect replica of the new MacBook Pro
 	<figcaption>Apple Responsive Screen Mockups from Graphic Burger</figcaption>
 </figure>
 
-Showcase your responsive designs with an awesome grouping of Apple devices. The pack includes the iPhone 5s, iPhone 5c, MacBook Air, iMac, and iPad Air. 
+Showcase your responsive designs with an awesome grouping of Apple devices. The pack includes the iPhone 5s, iPhone 5c, MacBook Air, iMac, and iPad Air.
 
 [Download Apple Responsive Screen Mockups from Graphic Burger](http://graphicburger.com/apple-responsive-screen-mockups/)
 
@@ -109,4 +109,3 @@ I hope you found this collection useful! If you can think of anymore I should in
 Cheers,
 
 --Alex Lehner
-
