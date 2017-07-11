@@ -39,7 +39,7 @@ Jekyll does a good job of telling you if your syntax is messed up somewhere. If 
 
 ## Add config file to .gitignore (optional)
 
-The `_config-dev.yml` file isn't going to hurt anything by having it in your Github repo. By default Github Pages won't even notice it. I would recommend you add it to your .gitignore file anyway. One less file in your git repo to keep track of an confuse potential forkers. [Need help?](https://help.github.com/articles/ignoring-files "Github Help: Ignoring files")
+The `_config-dev.yml` file isn't going to hurt anything by having it in your Github repo. By default Github Pages won't even notice it. I would recommend you add it to your .gitignore file anyway. One less file in your git repo to keep track of and confuse potential forkers. [Need help?](https://help.github.com/articles/ignoring-files "Github Help: Ignoring files")
 
 ---
 
