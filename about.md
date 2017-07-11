@@ -14,7 +14,7 @@ I am proudly working as a front-end on the [MailChimpUX](https://twitter.com/mai
 
 In another life I performed in [a circus](http://circus.fsu.edu/ "FSU Flying High Circus Website") and did a mix of wire-walking, juggling, and trapeze.
 
-Find me on [Twitter](https://twitter.com/AlexJLehner "Alex on Twitter"), [Linkedin](http://linkedin.com/in/ajlehner "Alex on LinkedIn"), at [alex@lifelikegeek.com](mailto:alex@lifelikegeek.com), or [download my resume]({{ site.url }}/assets/AlexLehner-Resume2014.pdf) *(PDF 2.1MB)*.
+Find me on [Twitter](https://twitter.com/AlexJLehner "Alex on Twitter"), [Linkedin](http://linkedin.com/in/ajlehner "Alex on LinkedIn"), at [alex@lifelikegeek.com](mailto:alex@lifelikegeek.com), or [download my resume]({{ site.url }}/assets/AlexLehner-Resume2017.pdf) *(PDF 1.7MB)*.
 
 Cheers,
 
